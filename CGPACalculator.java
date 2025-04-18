@@ -9,6 +9,8 @@ public class CGPACalculator extends JFrame {
     private JButton calculateButton;
     private JLabel resultLabel;
 
+    // function of cgpa calculation
+
     public CGPACalculator() {
         setTitle("CGPA Calculator (Marks Based)");
         setSize(400, 400);
